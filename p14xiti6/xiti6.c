@@ -6,7 +6,7 @@ int main()
 	scanf("%d %d %d", &a, &b, &c);
 	d = max(a, b ,c);
 	//f = max(d, e);
-	printf("最大值为%d\n",d);
+	printf("鏈�澶у�间负%d\n",d);
 	return(0);
 }
 
